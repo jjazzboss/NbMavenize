@@ -1,7 +1,7 @@
 # NbMavenize
 The script was written to migrate [JJazzLab](https://github.com/jjazzboss/JJazzLab-X), an Ant-based Netbeans platform application (~70 modules) to Maven.
 
-The script expects the Netbeans platform projects to have a standard structure:
+The script expects the Netbeans platform projects to have a standard structure. You can just create an empty Maven project using the Netbeans IDE "New project" command for a "Netbeans application".
 
 ```
 AntApp/
